@@ -129,6 +129,50 @@
 <v t="leo.20161115003215.76"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20161211154242.1"><vh>20161118</vh>
+<v t="leo.20161211154242.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161211154242.3"><vh>20161118</vh></v>
+</v>
+<v t="leo.20161211154242.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161211154242.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161211154242.6" a="E"><vh>心得</vh>
+<v t="leo.20161211154242.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161211154219.1"><vh>20161125</vh>
+<v t="leo.20161211154219.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161211154219.3"><vh>20161125</vh></v>
+</v>
+<v t="leo.20161211154219.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161211154219.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161211154219.6" a="E"><vh>心得</vh>
+<v t="leo.20161211154219.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161211154234.1"><vh>20161202</vh>
+<v t="leo.20161211154234.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161211154234.3"><vh>20161202</vh></v>
+</v>
+<v t="leo.20161211154234.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161211154234.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161211154234.6" a="E"><vh>心得</vh>
+<v t="leo.20161211154234.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161211154147.1"><vh>20161209</vh>
+<v t="leo.20161211154147.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161211154147.3"><vh>20161209</vh></v>
+</v>
+<v t="leo.20161211154147.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161211154147.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161211154147.6" a="E"><vh>心得</vh>
+<v t="leo.20161211154147.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -146,7 +190,7 @@
 </v>
 <v t="leo.20161115003231.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="leo.20161115003238.1"><vh>md 檔案範例</vh></v>
-<v t="amd.20151215170031.1"><vh>@path ./../content</vh>
+<v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="leo.20161115003610.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="leo.20161115003610.2" a="E"><vh>201609</vh>
 <v t="leo.20161115003610.3"><vh>@edit 20160916.md</vh></v>
@@ -158,11 +202,15 @@
 <v t="leo.20161115003610.10"><vh>@edit 20161028.md</vh></v>
 <v t="leo.20161115003610.11"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161115003610.12"><vh>@edit 20161111.md</vh></v>
+<v t="leo.20161211154806.1"><vh>@edit 20161118.md</vh></v>
+<v t="leo.20161211154817.1"><vh>@edit 20161125.md</vh></v>
+<v t="leo.20161211154827.1"><vh>@edit 20161202.md</vh></v>
+<v t="leo.20161211154838.1"><vh>@edit 20161209.md</vh></v>
 </v>
 </v>
 </v>
 <v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
-<v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
+<v t="amd.20160106094829.1"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -823,5 +871,186 @@ print("hello")
 &lt;/pre&gt;</t>
 <t tx="leo.20161115003610.1"></t>
 <t tx="leo.20161115003610.2"></t>
+<t tx="leo.20161211154147.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161211154147.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211154147.3">## 2016/12/09 第十三週
+
+</t>
+<t tx="leo.20161211154147.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211154147.5">##上課內容 
+
+同上周
+
+
+
+</t>
+<t tx="leo.20161211154147.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211154147.7">##心得
+
+版本害人不淺</t>
+<t tx="leo.20161211154219.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161211154219.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211154219.3">## 2016/11/25 第十一週
+
+</t>
+<t tx="leo.20161211154219.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211154219.5">##上課內容 
+
+運動會放假
+
+
+
+</t>
+<t tx="leo.20161211154219.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211154219.7">##心得
+
+YA~沒課
+
+</t>
+<t tx="leo.20161211154234.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161211154234.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211154234.3">## 2016/12/02 第十二週
+
+</t>
+<t tx="leo.20161211154234.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211154234.5">##上課內容 
+
+使用SolveSpace
+
+
+
+</t>
+<t tx="leo.20161211154234.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211154234.7">##心得
+
+簡單簡單
+</t>
+<t tx="leo.20161211154242.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161211154242.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211154242.3">## 2016/11/18 第十週
+
+</t>
+<t tx="leo.20161211154242.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211154242.5">##上課內容 
+
+畫圖
+
+
+
+</t>
+<t tx="leo.20161211154242.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211154242.7">##心得
+
+製圖課
+
+</t>
 </tnodes>
 </leo_file>
