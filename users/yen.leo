@@ -184,14 +184,17 @@
 <v t="leo.20170109035131.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170109044955.1"><vh>20161223</vh>
-<v t="leo.20170109044955.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170109044955.1" a="E"><vh>20161223</vh>
+<v t="leo.20170109044955.2"><vh>上課日期</vh>
 <v t="leo.20170109044955.3"><vh>20161223</vh></v>
 </v>
-<v t="leo.20170109044955.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170109044955.4"><vh>上課內容</vh>
 <v t="leo.20170109044955.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170109044955.6" a="E"><vh>心得</vh>
+<v t="leo.20170109062431.1"><vh>影片</vh>
+<v t="leo.20170109062431.2"><vh>影片</vh></v>
+</v>
+<v t="leo.20170109044955.6"><vh>心得</vh>
 <v t="leo.20170109044955.7"><vh>心得</vh></v>
 </v>
 </v>
@@ -1241,6 +1244,20 @@ YA~沒課
 <t tx="leo.20170109061224.2">##幫浦......吧?
 
 &lt;iframe src="https://player.vimeo.com/video/198587629" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170109062431.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109062431.2">##3D列印機
+
+&lt;iframe src="https://player.vimeo.com/video/198601865" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 </tnodes>
