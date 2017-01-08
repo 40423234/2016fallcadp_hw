@@ -176,7 +176,7 @@
 <v t="leo.20161211154147.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170109035131.1" a="E"><vh>20161216</vh>
+<v t="leo.20170109035131.1"><vh>20161216</vh>
 <v t="leo.20170109035131.2"><vh>上課日期</vh>
 <v t="leo.20170109035131.3"><vh>20161216</vh></v>
 </v>
@@ -218,6 +218,17 @@
 <v t="leo.20170109051318.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170109070116.1" a="E"><vh>20170106</vh>
+<v t="leo.20170109070116.2"><vh>上課日期</vh>
+<v t="leo.20170109070116.3"><vh>20170106</vh></v>
+</v>
+<v t="leo.20170109070116.4"><vh>上課內容</vh>
+<v t="leo.20170109070116.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170109070116.8"><vh>心得</vh>
+<v t="leo.20170109070116.9"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -254,6 +265,7 @@
 <v t="leo.20170109025814.1"><vh>@edit 20161216.md</vh></v>
 <v t="leo.20170109044305.1"><vh>@edit 20161223.md</vh></v>
 <v t="leo.20170109045959.1"><vh>@edit 20161230.md</vh></v>
+<v t="leo.20170109065457.1"><vh>@edit 20170106.md</vh></v>
 </v>
 </v>
 </v>
@@ -1294,5 +1306,52 @@ YA~沒課
 &lt;iframe src="https://player.vimeo.com/video/198603899" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
+<t tx="leo.20170109070116.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170109070116.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109070116.3">## 2017/01/06 第十七週
+
+</t>
+<t tx="leo.20170109070116.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109070116.5">##上課內容 
+
+
+
+
+
+期末快到了。</t>
+<t tx="leo.20170109070116.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109070116.9">##心得
+
+
+
+
+老師&gt;&lt;~如果把我當掉了，明年我說不定就不在虎尾了，也沒辦法在上老師的重修課，就算上了重修，電腦教室的電腦也不夠那麼多人，老師您說是吧。我網誌跟投影片都拜託老師了，求您看在我這麼有誠意的份上，網開一面，讓我過吧~拜託老師您了。</t>
 </tnodes>
 </leo_file>
