@@ -173,7 +173,7 @@
 <v t="leo.20161211154147.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170109035131.1" a="E"><vh>20161216</vh>
+<v t="leo.20170109035131.1"><vh>20161216</vh>
 <v t="leo.20170109035131.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170109035131.3"><vh>20161216</vh></v>
 </v>
@@ -182,6 +182,17 @@
 </v>
 <v t="leo.20170109035131.6" a="E"><vh>心得</vh>
 <v t="leo.20170109035131.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170109044955.1"><vh>20161223</vh>
+<v t="leo.20170109044955.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170109044955.3"><vh>20161223</vh></v>
+</v>
+<v t="leo.20170109044955.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170109044955.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170109044955.6" a="E"><vh>心得</vh>
+<v t="leo.20170109044955.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -218,6 +229,7 @@
 <v t="leo.20161211154827.1"><vh>@edit 20161202.md</vh></v>
 <v t="leo.20161211154838.1"><vh>@edit 20161209.md</vh></v>
 <v t="leo.20170109025814.1"><vh>@edit 20161216.md</vh></v>
+<v t="leo.20170109044305.1"><vh>@edit 20161223.md</vh></v>
 </v>
 </v>
 </v>
@@ -1111,5 +1123,49 @@ YA~沒課
 困難重重，雖然是基本的連桿
 但是程式不像solidworks那麼聰明
 所以很多東西反過來做會不相通</t>
+<t tx="leo.20170109044955.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170109044955.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109044955.3">## 2016/12/23 第十五週
+
+</t>
+<t tx="leo.20170109044955.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109044955.5">##上課內容 
+
+今天看3D列印機的組何圖
+
+
+
+</t>
+<t tx="leo.20170109044955.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109044955.7">##心得
+
+3D列印機跟連桿機構一下子跳過太多東西，還反應不過來。不過遲早都要習慣，不如趁現在把他學起來。</t>
 </tnodes>
 </leo_file>
