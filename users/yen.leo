@@ -195,6 +195,17 @@
 <v t="leo.20170109044955.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170109051318.1" a="E"><vh>20161230</vh>
+<v t="leo.20170109051318.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170109051318.3"><vh>20161230</vh></v>
+</v>
+<v t="leo.20170109051318.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170109051318.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170109051318.6" a="E"><vh>心得</vh>
+<v t="leo.20170109051318.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -230,6 +241,7 @@
 <v t="leo.20161211154838.1"><vh>@edit 20161209.md</vh></v>
 <v t="leo.20170109025814.1"><vh>@edit 20161216.md</vh></v>
 <v t="leo.20170109044305.1"><vh>@edit 20161223.md</vh></v>
+<v t="leo.20170109045959.1"><vh>@edit 20161230.md</vh></v>
 </v>
 </v>
 </v>
@@ -1167,5 +1179,49 @@ YA~沒課
 <t tx="leo.20170109044955.7">##心得
 
 3D列印機跟連桿機構一下子跳過太多東西，還反應不過來。不過遲早都要習慣，不如趁現在把他學起來。</t>
+<t tx="leo.20170109051318.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170109051318.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109051318.3">## 2016/12/30 第十六週
+
+</t>
+<t tx="leo.20170109051318.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109051318.5">##上課內容 
+
+
+
+
+
+</t>
+<t tx="leo.20170109051318.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109051318.7">##心得
+
+</t>
 </tnodes>
 </leo_file>
