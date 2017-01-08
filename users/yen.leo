@@ -15,7 +15,7 @@
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="leo.20161115003102.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="leo.20161115003215.1"><vh>@path ./../</vh>
+<v t="leo.20161115003215.1" a="E"><vh>@path ./../</vh>
 <v t="leo.20161115003215.2" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20161115003215.3"><vh>@button pelican-blog</vh></v>
 </v>
@@ -173,6 +173,17 @@
 <v t="leo.20161211154147.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170109035131.1" a="E"><vh>20161216</vh>
+<v t="leo.20170109035131.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170109035131.3"><vh>20161216</vh></v>
+</v>
+<v t="leo.20170109035131.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170109035131.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170109035131.6" a="E"><vh>心得</vh>
+<v t="leo.20170109035131.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -191,7 +202,7 @@
 <v t="leo.20161115003231.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="leo.20161115003238.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
-<v t="leo.20161115003610.1" a="E"><vh>yen 所寫的網誌文章</vh>
+<v t="leo.20161115003610.1" a="E"><vh>chen 所寫的網誌文章</vh>
 <v t="leo.20161115003610.2" a="E"><vh>201609</vh>
 <v t="leo.20161115003610.3"><vh>@edit 20160916.md</vh></v>
 <v t="leo.20161115003610.5"><vh>@edit 20160923.md</vh></v>
@@ -206,6 +217,7 @@
 <v t="leo.20161211154817.1"><vh>@edit 20161125.md</vh></v>
 <v t="leo.20161211154827.1"><vh>@edit 20161202.md</vh></v>
 <v t="leo.20161211154838.1"><vh>@edit 20161209.md</vh></v>
+<v t="leo.20170109025814.1"><vh>@edit 20161216.md</vh></v>
 </v>
 </v>
 </v>
@@ -1052,5 +1064,52 @@ YA~沒課
 製圖課
 
 </t>
+<t tx="leo.20170109035131.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170109035131.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109035131.3">## 2016/12/16 第十四週
+
+</t>
+<t tx="leo.20170109035131.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109035131.5">##上課內容 
+
+這禮拜學組合連桿
+算是進入solvespace的一個里程碑吧
+
+
+
+</t>
+<t tx="leo.20170109035131.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109035131.7">##心得
+
+困難重重，雖然是基本的連桿
+但是程式不像solidworks那麼聰明
+所以很多東西反過來做會不相通</t>
 </tnodes>
 </leo_file>
