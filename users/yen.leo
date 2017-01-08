@@ -195,14 +195,17 @@
 <v t="leo.20170109044955.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170109051318.1" a="E"><vh>20161230</vh>
-<v t="leo.20170109051318.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170109051318.1"><vh>20161230</vh>
+<v t="leo.20170109051318.2"><vh>上課日期</vh>
 <v t="leo.20170109051318.3"><vh>20161230</vh></v>
 </v>
-<v t="leo.20170109051318.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170109051318.4"><vh>上課內容</vh>
 <v t="leo.20170109051318.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170109051318.6" a="E"><vh>心得</vh>
+<v t="leo.20170109061224.1"><vh>影片</vh>
+<v t="leo.20170109061224.2"><vh>影片</vh></v>
+</v>
+<v t="leo.20170109051318.6"><vh>心得</vh>
 <v t="leo.20170109051318.7"><vh>心得</vh></v>
 </v>
 </v>
@@ -1210,7 +1213,7 @@ YA~沒課
 
 
 
-</t>
+其實沒有上課內容，老師要我們自己看影片，算是自學吧。</t>
 <t tx="leo.20170109051318.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1221,6 +1224,23 @@ YA~沒課
 						
 </t>
 <t tx="leo.20170109051318.7">##心得
+
+
+
+
+這禮拜做的東西超麻煩DER~還好我挺過來了。而且在commit的時候發生了很多技術上的問題。像是圖片不見了、零件畫不好、還有忘記在http後面加s......等等，總之我還是順利弄好了，YA~:D</t>
+<t tx="leo.20170109061224.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109061224.2">##幫浦......吧?
+
+&lt;iframe src="https://player.vimeo.com/video/198587629" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 </tnodes>
