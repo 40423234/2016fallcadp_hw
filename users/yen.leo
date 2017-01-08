@@ -162,28 +162,31 @@
 <v t="leo.20161211154234.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161211154147.1" a="E"><vh>20161209</vh>
+<v t="leo.20161211154147.1"><vh>20161209</vh>
 <v t="leo.20161211154147.2"><vh>上課日期</vh>
 <v t="leo.20161211154147.3"><vh>20161209</vh></v>
 </v>
 <v t="leo.20161211154147.4"><vh>上課內容</vh>
 <v t="leo.20161211154147.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170109063531.1" a="E"><vh>影片</vh>
+<v t="leo.20170109063531.1"><vh>影片</vh>
 <v t="leo.20170109063531.2"><vh>影片</vh></v>
 </v>
 <v t="leo.20161211154147.6"><vh>心得</vh>
 <v t="leo.20161211154147.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170109035131.1"><vh>20161216</vh>
-<v t="leo.20170109035131.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170109035131.1" a="E"><vh>20161216</vh>
+<v t="leo.20170109035131.2"><vh>上課日期</vh>
 <v t="leo.20170109035131.3"><vh>20161216</vh></v>
 </v>
-<v t="leo.20170109035131.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170109035131.4"><vh>上課內容</vh>
 <v t="leo.20170109035131.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170109035131.6" a="E"><vh>心得</vh>
+<v t="leo.20170109064829.1"><vh>影片</vh>
+<v t="leo.20170109064829.2"><vh>影片</vh></v>
+</v>
+<v t="leo.20170109035131.6"><vh>心得</vh>
 <v t="leo.20170109035131.7"><vh>心得</vh></v>
 </v>
 </v>
@@ -1275,6 +1278,20 @@ YA~沒課
 <t tx="leo.20170109063531.2">##小方塊
 
 &lt;iframe src="https://player.vimeo.com/video/198602849" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170109064829.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109064829.2">##沒東西只好來錄錄我存影片過程
+
+&lt;iframe src="https://player.vimeo.com/video/198603899" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 </tnodes>
