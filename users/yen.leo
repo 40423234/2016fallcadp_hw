@@ -63,14 +63,17 @@
 </v>
 </v>
 <v t="leo.20161115003215.35"><vh>20161007</vh>
-<v t="leo.20161115003215.36" a="E"><vh>上課日期</vh>
+<v t="leo.20161115003215.36"><vh>上課日期</vh>
 <v t="leo.20161115003215.37"><vh>20161007</vh></v>
 </v>
 <v t="leo.20161115003215.38" a="E"><vh>上課內容</vh>
 <v t="leo.20161115003215.39"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20161115003215.40" a="E"><vh>心得</vh>
+<v t="leo.20161115003215.40"><vh>心得</vh>
 <v t="leo.20161115003215.41"><vh>心得</vh></v>
+</v>
+<v t="leo.20170115034620.1" a="E"><vh>影片</vh>
+<v t="leo.20170115034620.2"><vh>影片</vh></v>
 </v>
 </v>
 <v t="leo.20161115003215.42"><vh>20161014</vh>
@@ -85,13 +88,16 @@
 </v>
 </v>
 <v t="leo.20161115003215.49"><vh>20161021</vh>
-<v t="leo.20161115003215.50" a="E"><vh>上課日期</vh>
+<v t="leo.20161115003215.50"><vh>上課日期</vh>
 <v t="leo.20161115003215.51"><vh>20161021</vh></v>
 </v>
-<v t="leo.20161115003215.52" a="E"><vh>上課內容</vh>
+<v t="leo.20161115003215.52"><vh>上課內容</vh>
 <v t="leo.20161115003215.53"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20161115003215.54" a="E"><vh>心得</vh>
+<v t="leo.20170115035433.1"><vh>影片</vh>
+<v t="leo.20170115035433.2"><vh>影片</vh></v>
+</v>
+<v t="leo.20161115003215.54"><vh>心得</vh>
 <v t="leo.20161115003215.55"><vh>心得</vh></v>
 </v>
 </v>
@@ -107,13 +113,16 @@
 </v>
 </v>
 <v t="leo.20161115003215.63"><vh>20161104</vh>
-<v t="leo.20161115003215.64" a="E"><vh>上課日期</vh>
+<v t="leo.20161115003215.64"><vh>上課日期</vh>
 <v t="leo.20161115003215.65"><vh>20161104</vh></v>
 </v>
-<v t="leo.20161115003215.66" a="E"><vh>上課內容</vh>
+<v t="leo.20161115003215.66"><vh>上課內容</vh>
 <v t="leo.20161115003215.67"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20161115003215.68" a="E"><vh>心得</vh>
+<v t="leo.20170115035628.1"><vh>影片</vh>
+<v t="leo.20170115035628.2"><vh>影片</vh></v>
+</v>
+<v t="leo.20161115003215.68"><vh>心得</vh>
 <v t="leo.20161115003215.69"><vh>心得</vh></v>
 </v>
 </v>
@@ -168,7 +177,7 @@
 <v t="leo.20161211154147.4"><vh>上課內容</vh>
 <v t="leo.20161211154147.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170109063531.1"><vh>影片</vh>
+<v t="leo.20170109063531.1" a="E"><vh>影片</vh>
 <v t="leo.20170109063531.2"><vh>影片</vh></v>
 </v>
 <v t="leo.20161211154147.6"><vh>心得</vh>
@@ -182,7 +191,7 @@
 <v t="leo.20170109035131.4"><vh>上課內容</vh>
 <v t="leo.20170109035131.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170109064829.1"><vh>影片</vh>
+<v t="leo.20170109064829.1" a="E"><vh>影片</vh>
 <v t="leo.20170109064829.2"><vh>影片</vh></v>
 </v>
 <v t="leo.20170109035131.6"><vh>心得</vh>
@@ -193,10 +202,10 @@
 <v t="leo.20170109044955.2"><vh>上課日期</vh>
 <v t="leo.20170109044955.3"><vh>20161223</vh></v>
 </v>
-<v t="leo.20170109044955.4"><vh>上課內容</vh>
+<v t="leo.20170109044955.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170109044955.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170109062431.1"><vh>影片</vh>
+<v t="leo.20170109062431.1" a="E"><vh>影片</vh>
 <v t="leo.20170109062431.2"><vh>影片</vh></v>
 </v>
 <v t="leo.20170109044955.6"><vh>心得</vh>
@@ -204,21 +213,21 @@
 </v>
 </v>
 <v t="leo.20170109051318.1"><vh>20161230</vh>
-<v t="leo.20170109051318.2"><vh>上課日期</vh>
+<v t="leo.20170109051318.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170109051318.3"><vh>20161230</vh></v>
 </v>
-<v t="leo.20170109051318.4"><vh>上課內容</vh>
+<v t="leo.20170109051318.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170109051318.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170109061224.1"><vh>影片</vh>
+<v t="leo.20170109061224.1" a="E"><vh>影片</vh>
 <v t="leo.20170109061224.2"><vh>影片</vh></v>
 </v>
-<v t="leo.20170109051318.6"><vh>心得</vh>
+<v t="leo.20170109051318.6" a="E"><vh>心得</vh>
 <v t="leo.20170109051318.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170109070116.1" a="E"><vh>20170106</vh>
-<v t="leo.20170109070116.2"><vh>上課日期</vh>
+<v t="leo.20170109070116.1"><vh>20170106</vh>
+<v t="leo.20170109070116.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170109070116.3"><vh>20170106</vh></v>
 </v>
 <v t="leo.20170109070116.4" a="E"><vh>上課內容</vh>
@@ -228,9 +237,9 @@
 <v t="leo.20170109070116.9"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113101635.1" a="E"><vh>20170113</vh>
+<v t="leo.20170113101635.1"><vh>20170113</vh>
 <v t="leo.20170113101635.2" a="E"><vh>上課日期</vh>
-<v t="leo.20170113101635.3"><vh>20170106</vh></v>
+<v t="leo.20170113101635.3"><vh>20170113</vh></v>
 </v>
 <v t="leo.20170113101635.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170113101635.5"><vh>上課內容</vh></v>
@@ -277,6 +286,7 @@
 <v t="leo.20170109045959.1"><vh>@edit 20161230.md</vh></v>
 <v t="leo.20170109065457.1"><vh>@edit 20170106.md</vh></v>
 <v t="leo.20170113101458.1"><vh>@edit 20170113.md</vh></v>
+<v t="leo.20170115025135.1"><vh>@edit 20170115.md</vh></v>
 </v>
 </v>
 </v>
@@ -678,7 +688,7 @@ redirecting ....
 <t tx="leo.20161115003215.53">## 上課內容
 
 
-
+onshape練習
 
 </t>
 <t tx="leo.20161115003215.54">&lt;section data-markdown&gt;
@@ -769,8 +779,8 @@ redirecting ....
 </t>
 <t tx="leo.20161115003215.67">##上課內容 
 
-使用Trace Point計算路徑
-
+1.使用Trace Point計算路徑
+&lt;P&gt;2.onshape自主練習三&lt;p&gt;
 
 
 </t>
@@ -1312,7 +1322,7 @@ YA~沒課
 
 						
 </t>
-<t tx="leo.20170109064829.2">##沒東西只好來錄錄我存影片過程
+<t tx="leo.20170109064829.2">##沒東西只好來測試錄影片的程式
 
 &lt;iframe src="https://player.vimeo.com/video/198603899" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -1377,7 +1387,7 @@ YA~沒課
 
 						
 </t>
-<t tx="leo.20170113101635.3">## 2017/01/06 第十八週
+<t tx="leo.20170113101635.3">## 2017/01/13 第十八週
 
 </t>
 <t tx="leo.20170113101635.4">&lt;section data-markdown&gt;
@@ -1410,6 +1420,57 @@ YA~沒課
 
 
 
-最後一次上課</t>
+這學期學習使用網路上的繪圖程式與近端的可攜式程式 , 我個人是對可攜式程式solvspaces情有獨鍾 , 因為在外面工作的時候 , 不是隨時隨地都有網路可以使用的 , 這時候把SOLVSPACE裝載隨身硬碟裡面就可以隨插隨用了 , 可以說獲益良多。</t>
+<t tx="leo.20170115034620.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115034620.2">##onshape自主練習一
+
+
+
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/199468843" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
+</t>
+<t tx="leo.20170115035433.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115035433.2">##onshape自主練習二
+
+
+
+
+
+
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/199470221" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
+</t>
+<t tx="leo.20170115035628.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115035628.2">##onshape自主練習三
+
+
+
+
+
+
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/199471569" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
+</t>
 </tnodes>
 </leo_file>
